@@ -74,7 +74,7 @@ FR-03: Marking an incomplete task complete changes its displayed status to Compl
 
 Assumption A-01: Students will access the task tracker primarily via modern web browsers on laptop or desktop devices.
 
-Question Q-01: Will task data need to persist across multiple browser sessions using local storage or a backend database?
+Question Q-01:Task data will persist across browser sessions using local storage
 
 Question Q-02: Which device will be used to test NFR-01?
 
